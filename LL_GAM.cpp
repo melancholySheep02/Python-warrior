@@ -4,7 +4,7 @@
 #include"dos.h"
 #include"bios.h"
 #include"stdlib.h"
-#include"conio"
+#include"conio.h"
 #include"string.h"
 //prototypes
 void menu(int,int);
